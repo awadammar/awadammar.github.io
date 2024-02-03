@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - awadammar
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - awadammar/al-folio
+  - ganzourii/SE2018G10
+  - Helaly96/ImageProcessing-PongPing
+  - awadammar/function-plotter
+  - awadammar/finsync
+  - awadammar/head-first-ooad
+  - apache/logging-log4j2
