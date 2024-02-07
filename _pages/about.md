@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Software Engineer @<a href='http://www.ejad.com.eg/'>eJad</a> | Backend Development | Java & C++ | Eclipse RCP | I Help Build Awesome Tools
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cairo, Egypt</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a passionate Software Engineer with a knack for optimizing performance and automating processes. My journey in software engineering began years ago, and since then, I have immersed myself in diverse projects that have honed my technical expertise and made significant contributions to my teams. My approach revolves around prioritizing user experience and meeting customer requirements, consistently optimizing functionalities to enhance performance.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my career, I've not only refined technical skills but also nurtured essential soft skills by collaborating in multidisciplinary teams. Effective communication and agile work practices have been integral to my success in various projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Looking ahead, I am eager to embrace new challenges and continue making significant contributions to the success of meaningful projects. As I navigate the dynamic field of software engineering, my focus remains on growth, both professionally and technologically. I am also open to relocation opportunities, eager to explore new environments, cultures, and contribute my skills to impactful projects worldwide.
+
+If my profile aligns with your needs, I welcome the opportunity for an interview to discuss how I can contribute to your team's success. Feel free to reach out, and let's explore the possibilities together!

@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Ammar Awad",
+    "phone": "+201142713441",
+    "website": "awadammar.github.io",
+    "email": "ammaryasser085@gmail.com",
+    "profiles": [
+      {
+        "username": "awadammar",
+        "url": "https://github.com/awadammar",
+        "network": "github"
+      },
+      {
+        "username": "awadammar",
+        "url": "https://www.linkedin.com/in/awadammar",
+        "network": "linkedin"
+      }
+    ],
+    "work": [
+      {
+        "position": "Software Development Engineer",
+        "name": "eJad",
+        "location": "Cairo, Egypt",
+        "startDate": "01-03-2022",
+        "summary": [
+          "Optimized BMW's Symphony tool performance in large-scale projects by tuning JVM parameters, wisely choosing the garbage collector, and continuous refactoring, increasing throughput by 19% using Eclipse RCP, SWT, Jface, and Xtend.",
+          "Built a multi-threaded, simple-designed, enterprise code generator that automates the process of generating C files from XML files using Java/J2EE and Eclipse Modeling Framework (EMF), which boosted the development process time by 30%.",
+          "Implemented a robust VS Code extension for Symphony modeling language using Xtext and language server protocol.",
+          "Improved the java-classes obfuscation rate by 34% using Proguard to deceive the de-compilation process.",
+          "Managed BMW's Symphony Infrastructure (CI/CD) using Python, ZUUL, Ansible, Bazel, and Jenkins in a Scrum workflow, resulting in a resilient workflow and a 15% efficiency increase.",
+          "Mentored over 4 senior students on extending the functionality of our code generator through their graduation project."
+        ]
+      },
+      {
+        "position": "Member Technical Software Staff",
+        "name": "Robotech",
+        "location": "Cairo, Egypt",
+        "startDate": "01-10-2019",
+        "endDate": "01-04-2020",
+        "summary": [
+          "Led the control team to develop a reliable, latency-free, real-time control system for a mini-submarine, receiving recognition for design ideas and implementation.",
+          "Developed a dashboard with various control functionalities using C++ and Qt as a cross-platform application.",
+          "Transferred the control system to ROS, which improved system latency to around 1 ms."
+        ]
+      },
+      {
+        "position": "Intern Software Engineer",
+        "name": "Innovation Hub",
+        "location": "Cairo, Egypt",
+        "startDate": "01-07-2019",
+        "endDate": "01-09-2019",
+        "summary": [
+          "Automated mapping of architecture's maquettes to a 3D grid layout by building a Maquettes Mapper GUI that reduced the average time needed to map a medium-sized project from 20 minutes down to 4 minutes using Python and Qt.",
+          "Re-introduced the design of the physical interactive maquette board, which decreased the cost by 76%."
+        ]
+      }
+    ],
+    "education": {
+      "endDate": "01-07-2020",
+      "startDate": "01-09-2015",
+      "area": "Computer and Systems Engineering",
+      "studyType": "Bachelors",
+      "institution": "Ain Shams University"
+    },
+    "skills": [
+      {
+        "keywords": [
+          "Java",
+          "C++",
+          "Python",
+          "TypeScript",
+          "Spring",
+          "Django",
+          "Qt",
+          "MySQL",
+          "MongoDB",
+          "Maven",
+          "REST API",
+          "Git",
+          "CI/CD",
+          "React",
+          "Bash",
+          "Backend",
+          "Algorithms",
+          "Data Structures",
+          "OOP",
+          "Design Patterns",
+          "Unit Testing (JUnit)",
+          "Regression Testing",
+          "Agile",
+          "JIRA"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Log4j2",
+        "description": "Made occasional contributions to Apache Log4j, which is an efficient logging API and backend for Java-based projects.",
+        "technologies": ["Java", "Maven"],
+        "startDate": "01-05-2023"
+      },
+      {
+        "name": "Equation Plotter",
+        "description": "Creator of a 2D mathematical equation plotter.",
+        "technologies": ["C++", "Qt"],
+        "startDate": "01-12-2021"
+      },
+      {
+        "name": "Graduation Project",
+        "description": "Designed and built a generic deep-learning converter that translates the source code of Android apps to iOS apps' source code and vice versa using NMT.",
+        "technologies": ["Python", "Keras API"],
+        "startDate": "01-09-2020"
+      },
+      {
+        "name": "PongPing",
+        "description": "Developed a table tennis scoring system by processing the match live video.",
+        "technologies": ["Python", "OpenCV"],
+        "startDate": "01-05-2020"
+      },
+      {
+        "name": "ASU Racing Team Website",
+        "description": "Implemented website's authorization component with a social login feature using Angular 6 and TypeScript. Provided a RESTful API using Django with relational databases.",
+        "technologies": ["Angular", "Django", "SQL"],
+        "startDate": "01-10-2019"
+      },
+      {
+        "name": "MemorySimulator",
+        "description": "Developed a GUI that simulates and visualizes memory allocation and deallocation; it supports different methods of allocation and deallocation Best fit, worst fit, and first fit.",
+        "technologies": ["C++", "Qt"],
+        "startDate": "01-04-2019"
+      },
+      {
+        "name": "CareHub",
+        "description": "Created and put into use a healthcare system that lets patients access personal medical records, book appointments, and find the right health provider to get treatment.",
+        "technologies": ["Django", "MySQL", "HTML", "CSS"],
+        "startDate": "01-02-2019"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Neural Machine Based Mobile Applications Code Translation",
+        "publisher": "Ammar Y. Baraka, et al.",
+        "releaseDate": "26-10-2020",
+        "url": "10.1109/NILES50944.2020.9257935"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Advanced Data Analysis Program",
+        "issuer": "Udacity",
+        "dates": "01-12-2021"
+      },
+      {
+        "name": "Object-Oriented Design",
+        "issuer": "University of Alberta",
+        "dates": "01-06-2020"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "issuer": "Deeplearning.ai",
+        "dates": "01-12-2019"
+      }
+    ]
+  }
+}
