@@ -3,8 +3,8 @@ github_users:
 
 github_repos:
   - apache/logging-log4j2
-  - ganzourii/SE2018G10
-  - Helaly96/ImageProcessing-PongPing
-  - awadammar/function-plotter
   - awadammar/finsync
   - awadammar/head-first-ooad
+  - ganzourii/SE2018G10
+  - awadammar/function-plotter
+  - Helaly96/ImageProcessing-PongPing
