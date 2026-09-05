@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#faf8f4">
+<title>Ammar Awad</title>
+<style>
+  :root{
+    --bg:#faf8f4; --card:#ffffff; --border:#dedad2; --text:#1c1a17; --muted:#6b6459; --accent:#9c3b2e;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#17140f; --card:#1f1c17; --border:#3a352c; --text:#f2ede4; --muted:#a89e8d; --accent:#e28066; }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; min-height:100vh;
+    background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    display:flex; justify-content:center;
+    padding:32px 16px 60px;
+  }
+  .card{ width:100%; max-width:420px; }
+
+  h1{ font-size:24px; margin:0 0 2px; }
+  .role{ color:var(--muted); font-size:15px; margin:0 0 20px; }
+
+  .about p{ margin:0 0 10px; line-height:1.5; font-size:15px; }
+  .about{ padding-bottom:20px; margin-bottom:20px; border-bottom:1px solid var(--border); }
+  .about ul{ margin:10px 0 0; padding-left:18px; }
+  .about li{ margin-bottom:8px; line-height:1.5; font-size:15px; }
+
+  .qr-block{ margin-bottom:28px; }
+  .qr-block a{ display:block; text-decoration:none; color:inherit; }
+  .qr-block img{
+    display:block; width:100%; height:auto; background:#fff;
+    border:1px solid var(--border); border-radius:8px; padding:16px;
+  }
+  .qr-block .label{
+    display:flex; justify-content:space-between; align-items:baseline;
+    margin-top:10px; font-size:15px;
+  }
+  .qr-block .label b{ font-weight:600; color:var(--accent); }
+  a:focus-visible{ outline:2px solid var(--accent); outline-offset:2px; }
+  .qr-block .label span{ color:var(--muted); font-size:13px; word-break:break-all; text-align:right; margin-left:12px; }
+</style>
+</head>
+<body>
+  <main class="card">
+    <h1>Ammar Awad</h1>
+    <p class="role">Backend engineer at Intelmatix, Cairo</p>
+
+    <div class="about">
+      <p>Some of what I've been doing this year:</p>
+      <ul>
+        <li>Built the RCMC backend from scratch and led the handover from SETS during Hajj season.</li>
+        <li>Wrote our first real testing strategy and used it to catch a bug that had quietly never deleted a row.</li>
+        <li>Now working on MATIX, the middleware behind our AI chat product.</li>
+      </ul>
+    </div>
+
+    <div class="qr-block">
+      <a href="https://www.linkedin.com/in/awadammar" target="_blank" rel="noopener">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fawadammar" alt="QR code to LinkedIn profile" loading="lazy">
+      </a>
+      <div class="label"><b>LinkedIn</b><span>linkedin.com/in/awadammar</span></div>
+    </div>
+
+    <div class="qr-block">
+      <a href="https://drive.google.com/file/d/1E_G1Vobse1hrmlIUkOuPlGUCVx9EWsn7/view" target="_blank" rel="noopener">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1E_G1Vobse1hrmlIUkOuPlGUCVx9EWsn7%2Fview" alt="QR code to resume" loading="lazy">
+      </a>
+      <div class="label"><b>Resume</b><span>PDF</span></div>
+    </div>
+
+    <div class="qr-block">
+      <a href="https://github.com/awadammar" target="_blank" rel="noopener">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https%3A%2F%2Fgithub.com%2Fawadammar" alt="QR code to GitHub profile" loading="lazy">
+      </a>
+      <div class="label"><b>GitHub</b><span>github.com/awadammar</span></div>
+    </div>
+  </main>
+</body>
+</html>
