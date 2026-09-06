@@ -3,8 +3,8 @@ github_users:
 
 github_repos:
   - apache/logging-log4j2
+  - awadammar/sarjy
   - awadammar/finsync
+  - awadammar/library-management-system
+  - awadammar/Pathfinder
   - awadammar/head-first-ooad
-  - ganzourii/SE2018G10
-  - awadammar/function-plotter
-  - Helaly96/ImageProcessing-PongPing
